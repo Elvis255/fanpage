@@ -17,3 +17,10 @@ a {
     width: 30px;
     margin: 15px;
 }
+.header{
+    color:blue;
+}
+.thumbnail-image{
+    width:500px;
+    height:50%;
+}
