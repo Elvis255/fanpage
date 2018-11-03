@@ -20,10 +20,6 @@ a {
 .header{
     color:blue;
 }
-.thumbnail-image{
-    width:500px;
-    height:50%;
-}
 .gallery{
     display:flex;
     justify-content:space-around;
@@ -44,3 +40,24 @@ a {
     display:flex;
     justify-content: center;
     }
+body{
+    background-color:#00FFFF;
+}
+.aboutMain{
+   display:flex;
+}
+.aboutPic{
+    width:600px;
+    height:100%;
+    display:flex;
+    justify-content:center;
+}
+.galleryMain{
+    display:flex;
+}
+.galleryPic{
+     width:600px;
+    height:100%;
+    display:flex;
+    justify-content:center;
+}
